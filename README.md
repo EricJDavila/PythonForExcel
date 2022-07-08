@@ -1,2 +1,2 @@
 # PythonForExcel
-Prácticas del libto de Felix Sumstein "Python for Excel".
+Prácticas del libro de Felix Sumstein "Python for Excel".
